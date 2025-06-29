@@ -22,7 +22,7 @@
 git clone git@github.com:Korossuh/Proyectos-python.git
 cd Proyectos-python 
 
-´´´
+
 
 2. **Seleccionar el proyecto que queremos escoger entrando a la carpeta**
 
@@ -30,7 +30,6 @@ cd Proyectos-python
 
 cd nombre_carpeta
 
-´´´
 
 3. **Dependiendo de el proyecto tendra instrucciones o un requeriments.txt**
 
