@@ -17,7 +17,7 @@
 
 1. **Clonar el repositorio completo o por partes**
 
-´´´bash
+```bash
 git clone git@github.com:Korossuh/Proyectos-python.git
 cd Proyectos-python 
 
@@ -25,7 +25,7 @@ cd Proyectos-python
 
 2. **Seleccionar el proyecto que queremos escoger entrando a la carpeta**
 
-´´´bash
+```bash
 cd nombre_carpeta
 
 
